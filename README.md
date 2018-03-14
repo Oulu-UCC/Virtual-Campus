@@ -9,8 +9,8 @@ The campus center hallway is 1 km long and the modelled area is wide, hence the 
 
 
 
-Materials are licensed under separate Creative Commons licenses for runtime exports and model source files, more infor at: http://www.ubioulu.fi/en/VirtualOulu
-
+Materials are licensed under separate Creative Commons licenses for runtime exports and model source files, more infor at: http://ubicomp.oulu.fi/infrastructure-virtualoulu/
+http://ubicomp.oulu.fi/infrastructure-virtual-campus/
 
 
 ![alt tag](https://github.com/Plij/Virtual-Campus/blob/master/centerhallwaydetail.jpg)
